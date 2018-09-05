@@ -31,4 +31,4 @@ The [Rsum](src/main/scala/de/tud/swt/rsum) folder contains the source code of th
 
 * `ExampleRSUM.scala` as start class that show the creation of elements in the underlying model and the creation of views and changing of elements in views and the related views with console output.
 * `RsumCompartment.scala` as global management object.
-* Implemented views in the [Views](src/main/scala/de/tud/swt/views) folder.
+* Implemented views in the [Views](src/main/scala/de/tud/swt/rsum/views) folder.
