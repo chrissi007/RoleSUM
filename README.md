@@ -1,6 +1,6 @@
 # Model Synchronization with the Role-oriented Single Underlying Model (Running Example)
 
-Supplementary material for the [MRT Workshop 2018](http://modelsconference.org/) publication *"Model Synchronization with the Role-oriented Single Underlying Model"* by Christopher Werner and Uwe Aßmann.
+Supplementary material for the [MRT Workshop 2018](http://modelsconference.org/) publication *"Model Synchronization with the Role-oriented Single Underlying Model"* by Christopher Werner and Uwe AÃŸmann.
 
 The repository described the synchronization of 3 related models, which are derived from a single underlying model. Therefore, we use a small Libary and Employee example.
 
@@ -18,7 +18,7 @@ Needs the [SCROLL Scala Library](https://github.com/max-leuthaeuser/SCROLL/) as 
 
 ### Get a Copy of this Repository
 
-git `clone https://github.com/st-tu-dresden/RoleSUM.git`
+git `clone https://github.com/chrissi007/RoleSUM.git`
 
 ### Setup your favorite IDE
 
